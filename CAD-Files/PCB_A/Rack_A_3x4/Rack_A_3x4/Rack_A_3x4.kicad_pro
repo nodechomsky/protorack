@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Rack_A.kicad_pro",
+    "filename": "Rack_A_3x4.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -469,7 +469,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../Rack_A/Rack_A.step",
+      "step": "Rack_A_3x4.step",
       "svg": "",
       "vrml": ""
     },
